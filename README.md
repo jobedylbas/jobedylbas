@@ -10,9 +10,9 @@ I'm an undergraduate student at [UFRGS](http://ufrgs.br), scolarship at [Apple D
 
 ### It's dangerous to go alone! ⚠️
 
-I believe that collaboration it's the main objective of github, so...
+I believe that collaboration it's the main objective of @GitHub, so...
 
-if you have any questions you can create an issue that I will answer as soon as I can.
+if you have any questions you can create an [issue](https://github.com/jobedylbas/jobedylbas/issues/new) to get in touch.
 
 Also you can find me on [LinkedIn](https://www.linkedin.com/in/jobedylbas/).
 
