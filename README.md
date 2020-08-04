@@ -1,4 +1,22 @@
-### Hi there 👋
+### Hi, there 👋
+
+I'm an undergraduate student at [UFRGS](http://ufrgs.br), scolarship at [Apple Developer Academy](http://www.bepid.com.br/poa/) and researcher. I love how new ideas come to life through technology and how that ideas could change our lives. I'm currently working on an analysis of movies that use the Hero Journey structure.
+
+### Achievements 🏆
+
+* WWDC20 Swift Student Challenge Winner
+* 8th Campus Mobile Attendant
+* [WWDC19 Scolarship](https://github.com/jobedylbas/librasplayground)
+
+### It's dangerous to go alone! ⚠️
+
+I believe that collaboration it's the main objective of github, so...
+
+if you have any questions you can create an issue that I will answer as soon as I can.
+
+Also you can find me on [LinkedIn](https://www.linkedin.com/in/jobedylbas/).
+
+### Take care and wash your hands. 👏
 
 <!--
 **jobedylbas/jobedylbas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
