@@ -12,7 +12,7 @@ I'm an undergraduate student at [UFRGS](http://ufrgs.br), scolarship at [Apple D
 
 I believe that collaboration it's the main objective of @GitHub, so...
 
-if you have any questions you can create an [issue](https://github.com/jobedylbas/jobedylbas/issues/new) to get in touch.
+if you have any questions or just wanna talk you can create an [issue](https://github.com/jobedylbas/jobedylbas/issues/new).
 
 Also you can find me on [LinkedIn](https://www.linkedin.com/in/jobedylbas/).
 
