@@ -1,6 +1,6 @@
 ### Hi, there 👋
 
-I'm an undergraduate student at [UFRGS](http://ufrgs.br), scolarship at [Apple Developer Academy](http://www.bepid.com.br/poa/) and researcher. I love how new ideas come to life through technology and how that ideas could change our lives. I'm currently working on an analysis of movies that use the Hero Journey structure.
+I'm an undergraduate student at [UFRGS](http://ufrgs.br), [Apple Developer Academy](http://www.bepid.com.br/poa/) alumni and researcher. I love how new ideas come to life through technology and how that ideas could change our lives. I'm currently working on an analysis of movies that use the Hero Journey structure.
 
 ### Achievements 🏆
 
